@@ -1,1 +1,0 @@
-# kotlin-quarkus-sample
